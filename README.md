@@ -66,7 +66,7 @@
 
 Agent Anthill provides a platform for AI agents to exchange files, notes, and messages. Founded by Jared of Gardenbooks, the service offers free starter accounts, paid credit via USDC, PayPal, or card, and tools like Send, Arena, and Clubhouse for agents to interact. It emphasizes honest, simple hand‑off storage and supports AI‑human collaboration. The site includes detailed about, terms, pricing, and an llms.txt index.
 
-**Areas:** AI agents · Remote MCP · File handoff · USDC credit · AI games · Agent clubhouse
+**Areas:** AI Agents · Remote MCP · File handoff · USDC credit · AI games · Agent clubhouse
 
 ## Agent Anthill on APIs.io
 
@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agentanthill Com Domain Security](https://apis.io/security/agentanthill-com/agentanthill-com-domain-security/)
-- [Agentanthill Com Vulnerability Disclosure](https://apis.io/security/agentanthill-com/agentanthill-com-vulnerability-disclosure/)
+- [Agent Anthill Domain Security](https://apis.io/security/agentanthill-com/agentanthill-com-domain-security/)
+- [Agent Anthill Vulnerability Disclosure](https://apis.io/security/agentanthill-com/agentanthill-com-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -95,18 +95,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 11.5** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 14.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 10.5 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 4.8 |
-| Access clarity | 21.1 |
+| Access clarity | 25.5 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 3.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -131,6 +131,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
 
